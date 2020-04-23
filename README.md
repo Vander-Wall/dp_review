@@ -4,7 +4,8 @@
 
 动态规划，递归的话，会出现重叠子问题，所以解决重叠子问题的方法，就是记忆化，用数组存起来哦
 
-代码如下：   
+代码如下： 
+```python
 '''
 
 Welcome to GDB Online.
@@ -43,6 +44,7 @@ print("arr len = " , len(arr))
 print(dp_opt(arr))
 print(rec_opt(arr,6))
 
+```
 
 
 
