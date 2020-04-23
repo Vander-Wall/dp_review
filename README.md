@@ -47,6 +47,16 @@ print(rec_opt(arr,6))
 ```
 
 
+#python 代码解释：
+三、import A as B
+        这种方式为给引入的包A定义一个别名B，例如：
+eg:
+import numpy as np 
 
+
+numpy 用法 ：NumPy(Numerical Python) 是 Python 语言的一个扩展程序库，支持大量的维度数组与矩阵运算，此外也针对数组运算提供大量的数学函数库。
+numpy.zeros（创建0矩阵）
+返回给定形状和类型的新数组，用零填充。
+opt = np.zeros(len(arr)) # 表示初始化一个长度为数组arr的长度的数组，里面全部填0
 
 
