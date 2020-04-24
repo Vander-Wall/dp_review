@@ -59,4 +59,4 @@ numpy.zeros（创建0矩阵）
 返回给定形状和类型的新数组，用零填充。
 opt = np.zeros(len(arr)) # 表示初始化一个长度为数组arr的长度的数组，里面全部填0
 
-<img src="https://raw.githubusercontent.com/Vander-Wall/dp_review/master/dp3.png" width = "500" height = "300" alt="" align=center />
+<img src="https://raw.githubusercontent.com/Vander-Wall/dp_review/master/dp3.png" width = "900" height = "400" alt="" align=center />
